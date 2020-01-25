@@ -132,7 +132,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 
 
 -------------
-#Design Tools
+# Design Tools
 
 ## Prototype Tools
 + OmniGraffle
@@ -168,7 +168,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 
 ## Photoshop
 
-##移动端利器（iOS为主）
+## 移动端利器（iOS为主）
 
 + Design Hunt 有点像是为设计师量身定做的 Feedly。整合了 Dribbble, Wired, Fast Company, Vimeo 等众多大咖小咖渠道的信息，以 News, Article, Inspiration, Typography(版式设计), Apple, iOS App, Product, Architecture 等关键词进行分类。
 
@@ -195,7 +195,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + zeeen-dribble第三方客户端，很好看的卡片风格，智能算法当用户在查看不同风格作品的时候，自动将页面的字体、背景色与作品的色调搭配，仿佛将作品融为一体，非常精妙。
 
 # Book List
-##交互设计
+## 交互设计
 
 + 启示录 
 + 精益创业实战 (豆瓣)（强烈推荐）
@@ -209,7 +209,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + 赢在用户 
 + 设计沟通十器
 
-###basic
+### basic
 
 + 点石成金 
 + 筑巢引凤：高黏度社会化网站设计秘诀 
@@ -231,7 +231,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 瞬间之美：web界面设计如何让用户心动
 破茧成蝶：用户体验设计师的成长之路
 
-###中级
+### 中级
 Designing Interactions
 字体传奇
 文字设计原理
@@ -268,7 +268,7 @@ Design is A Job
 移动互联：用户体验设计指南
 贴心设计：打造高可用性的移动产品
 
-###高级
+### 高级
 交互设计—-超越人机交互
 软件观念革命
 A Practical Guide to Information Architecture
